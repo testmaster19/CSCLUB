@@ -29,16 +29,5 @@ public class Chall2 {
 
     }
 
-    static void End_portal()
-    {
-        Variable_End Eyes_Ender = new Variable_End();
-        if ( Eyes_Ender == 24)
-        {
-            System.out.println("The End Portal Has Opened...");
-        }
-
-
-        
-    }
     
 }
